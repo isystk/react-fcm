@@ -6,10 +6,8 @@ import routes from './routes'
 
 type Props = {
   setCSRF: (arg0: string) => void
-  responseSession: string
   history: any
   csrf: any
-  setSession: (arg0: any) => void
   setName: (arg0: string) => void
   setEmail: (arg0: string) => void
   setRemember: (arg0: string) => void
@@ -19,8 +17,6 @@ type Props = {
 class ReactRoot extends React.Component<Props> {
   constructor(props: Props | Readonly<Props>) {
     super(props)
-    // セッションのセット
-    this.props.setSession(props.responseSession)
     // 定数のセット
     this.props.readConsts()
     // if (window.laravelErrors['name'] === undefined
@@ -38,7 +34,7 @@ class ReactRoot extends React.Component<Props> {
   }
 
   render() {
-    return <ConnectedRouter history={this.props.history}>{routes(this.props.responseSession)}</ConnectedRouter>
+    return <ConnectedRouter history={this.props.history}>{routes()}</ConnectedRouter>
   }
 }
 

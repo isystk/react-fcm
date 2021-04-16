@@ -2,45 +2,38 @@
  * Storeに保存するデータ型を定義
  */
 
-
-export interface Parts
-{
+export interface Parts {
   isShowOverlay: boolean
 }
 
-export interface Auth
-{
-  auth: boolean;
-  id?: number | null,
-  name: string | null,
-  email?: string,
-  remember?: string,
-  csrf?: string,
-  request?: string,
-  session?: string,
+export interface Auth {
+  auth: boolean
+  id?: number | null
+  name: string | null
+  email?: string
+  remember?: string
+  csrf?: string
+  request?: string
+  session?: string
 }
 
-export interface Consts
-{
+export interface Consts {
   stripe_key?: Const
   gender?: Const
   age?: Const
 }
 
-export interface Const
-{
+export interface Const {
   name: string
   data: KeyValue[] | string
 }
 
-export interface KeyValue
-{
+export interface KeyValue {
   key: number
   value: string
 }
 
-export interface Page
-{
+export interface Page {
   total: number
   current_page: number
   last_page: number
@@ -50,14 +43,12 @@ export interface Page
   last_page_url: string
 }
 
-export interface Stocks
-{
+export interface Stocks {
   data: Stock[]
   page?: Page
 }
 
-export interface Stock
-{
+export interface Stock {
   id: number
   name: string
   detail: string
@@ -69,13 +60,11 @@ export interface Stock
   isLike: boolean
 }
 
-export interface Likes
-{
+export interface Likes {
   data: string[]
 }
 
-export interface Carts
-{
+export interface Carts {
   data: Cart[]
   message: string
   username: string
@@ -83,8 +72,7 @@ export interface Carts
   sum: number
 }
 
-export interface Cart
-{
+export interface Cart {
   id: number
   name: string
   detail: string
