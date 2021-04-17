@@ -20,6 +20,8 @@ mix
     proxy: false
   });
 
+mix.setPublicPath('public');
+
 if (mix.inProduction()) {
   // 本番環境
   mix.version()

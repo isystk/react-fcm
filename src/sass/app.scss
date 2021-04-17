@@ -1,17 +1,2 @@
-
-// Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
-
-// Variables
-@import 'variables';
-
-// Bootstrap
-@import '~bootstrap/scss/bootstrap';
-
-@import 'base';
-@import 'mixin';
-@import 'header';
-@import 'headerNav';
-@import 'footer';
-@import 'util';
-@import 'style';
+@import '~admin-lte/plugins/fontawesome-free/css/all.min.css';
+@import '~admin-lte/dist/css/adminlte.min.css';

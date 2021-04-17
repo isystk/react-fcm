@@ -3,7 +3,8 @@ import { Route, Switch } from 'react-router'
 import { URL } from '../common/constants/url'
 
 import Layout from '../components/Layout'
-import ShopTop from '../components/Shops/ShopTop'
+import Home from '../components/Home'
+import Fcm from '../components/Firebase/Fcm'
 import { NotFound } from '../components/NotFound'
 
 const routes = () => {
@@ -12,7 +13,8 @@ const routes = () => {
       <Layout>
         <main className="main">
           <Switch>
-            <Route exact path={URL.TOP} component={ShopTop} />
+            <Route exact path={URL.HOME} component={Home} />
+            <Route exact path={URL.FCM} component={Fcm} />
             <Route component={NotFound} />
           </Switch>
         </main>
