@@ -1,0 +1,202 @@
+[Thu Mar 18 20:45:28.073869 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 18 20:45:28.097931 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.21.0.6. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 18 20:45:28.210186 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Mar 18 20:45:28.512286 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 18 20:45:28.584813 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Thu Mar 18 20:45:28.588424 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Mar 19 06:55:35.000150 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 19 06:55:35.015431 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.21.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 19 06:55:35.030334 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Mar 19 06:55:35.039871 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 19 06:55:35.044989 2021] [core:warn] [pid 1] AH00098: pid file /run/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 19 06:55:35.054166 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Fri Mar 19 06:55:35.056756 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Mar 19 09:49:37.455403 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Mar 20 00:53:11.287088 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 20 00:53:11.298430 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.6. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 20 00:53:11.317282 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Mar 20 00:53:11.325171 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 20 00:53:11.337609 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sat Mar 20 00:53:11.338452 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Mar 20 00:54:44.814995 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Mar 20 08:04:00.524316 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 20 08:04:00.534993 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.20.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 20 08:04:00.553713 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Mar 20 08:04:00.560938 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 20 08:04:00.568499 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sat Mar 20 08:04:00.571208 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Mar 20 22:26:20.257012 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 20 22:26:20.271559 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.20.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 20 22:26:20.291016 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Mar 20 22:26:20.300237 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 20 22:26:20.308497 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sat Mar 20 22:26:20.309548 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Mar 21 08:18:16.992579 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sun Mar 21 08:18:34.262319 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 21 08:18:34.292588 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 21 08:18:34.648495 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Mar 21 08:18:34.709298 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 21 08:18:34.788003 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sun Mar 21 08:18:34.798737 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Mar 21 08:55:41.372331 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 21 08:55:41.388242 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 21 08:55:41.418320 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Mar 21 08:55:41.426459 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 21 08:55:41.432812 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sun Mar 21 08:55:41.433833 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Mar 21 11:15:33.652099 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sun Mar 21 11:15:43.132483 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 21 11:15:43.142457 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.7. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 21 11:15:43.161224 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Mar 21 11:15:43.168701 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 21 11:15:43.176378 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sun Mar 21 11:15:43.178855 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Mar 22 20:13:59.778383 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 22 20:13:59.833691 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 22 20:13:59.969537 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 22 20:14:00.000809 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 22 20:14:00.047377 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Mon Mar 22 20:14:00.073710 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Mar 22 20:18:17.334813 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Mar 22 20:18:31.158949 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 22 20:18:31.170248 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.7. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 22 20:18:31.197868 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 22 20:18:31.208393 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 22 20:18:31.218193 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Mon Mar 22 20:18:31.224809 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Mar 22 20:55:25.734574 2021] [core:warn] [pid 1] AH00045: child process 8 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:25.735979 2021] [core:warn] [pid 1] AH00045: child process 10 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:25.737205 2021] [core:warn] [pid 1] AH00045: child process 12 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:27.746771 2021] [core:warn] [pid 1] AH00045: child process 8 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:27.748314 2021] [core:warn] [pid 1] AH00045: child process 10 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:27.749257 2021] [core:warn] [pid 1] AH00045: child process 12 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:29.752773 2021] [core:warn] [pid 1] AH00045: child process 8 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:29.754160 2021] [core:warn] [pid 1] AH00045: child process 10 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:29.755311 2021] [core:warn] [pid 1] AH00045: child process 12 still did not exit, sending a SIGTERM
+[Mon Mar 22 20:55:31.760182 2021] [core:error] [pid 1] AH00046: child process 8 still did not exit, sending a SIGKILL
+[Mon Mar 22 20:55:31.766633 2021] [core:error] [pid 1] AH00046: child process 10 still did not exit, sending a SIGKILL
+[Mon Mar 22 20:55:31.769102 2021] [core:error] [pid 1] AH00046: child process 12 still did not exit, sending a SIGKILL
+[Mon Mar 22 20:57:11.577188 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 22 20:57:11.587696 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 22 20:57:11.604724 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 22 20:57:11.610021 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 22 20:57:11.615252 2021] [core:warn] [pid 1] AH00098: pid file /run/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 22 20:57:11.618259 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Mon Mar 22 20:57:11.619343 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Mar 22 20:57:20.019229 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Mar 22 20:57:30.583266 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 22 20:57:30.593039 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.6. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 22 20:57:30.615903 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 22 20:57:30.622704 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 22 20:57:30.629552 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Mon Mar 22 20:57:30.632175 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Mar 23 09:44:23.095733 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Tue Mar 23 22:41:43.673101 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 23 22:41:43.681177 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.6. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 23 22:41:43.701727 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Mar 23 22:41:43.715348 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 23 22:41:43.723992 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Tue Mar 23 22:41:43.725989 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Mar 24 19:28:24.606517 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 24 19:28:24.621841 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 24 19:28:24.646282 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 24 19:28:24.656503 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 24 19:28:24.667754 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Wed Mar 24 19:28:24.671044 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Mar 25 21:49:18.240138 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Mar 25 22:56:55.083364 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 25 22:56:55.094947 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 25 22:56:55.141428 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Mar 25 22:56:55.153007 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 25 22:56:55.166360 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Thu Mar 25 22:56:55.169166 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Mar 26 21:43:49.994433 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 26 21:43:50.096072 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 26 21:43:50.158554 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Mar 26 21:43:50.179505 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 26 21:43:50.233783 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Fri Mar 26 21:43:50.238567 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Mar 27 00:02:28.868040 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu Apr 01 22:12:31.792092 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 01 22:12:31.836491 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.7. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 01 22:12:31.863201 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Apr 01 22:12:31.871506 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 01 22:12:31.881117 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Thu Apr 01 22:12:31.882247 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Apr 02 09:04:29.612546 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 02 09:04:29.662520 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Apr 02 09:04:29.703673 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Apr 02 09:04:29.727724 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 02 09:04:29.777704 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Fri Apr 02 09:04:29.781157 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 03 09:22:08.157055 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Apr 03 09:22:19.314099 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 03 09:22:19.356986 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 03 09:22:19.438846 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Apr 03 09:22:19.447861 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 03 09:22:19.458721 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sat Apr 03 09:22:19.467043 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sat Apr 03 21:54:16.855086 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 03 21:54:16.886168 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 03 21:54:16.927584 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Apr 03 21:54:16.952107 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 03 21:54:16.958373 2021] [core:warn] [pid 1] AH00098: pid file /run/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 03 21:54:16.970264 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sat Apr 03 21:54:16.973693 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Apr 04 18:24:30.262485 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 04 18:24:30.281572 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Apr 04 18:24:30.325690 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Apr 04 18:24:30.355077 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 04 18:24:30.372434 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sun Apr 04 18:24:30.378529 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Apr 06 00:14:26.387512 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 06 00:14:26.411671 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 06 00:14:26.444449 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Apr 06 00:14:26.453507 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 06 00:14:26.466937 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Tue Apr 06 00:14:26.469443 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Apr 11 10:52:02.852329 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 11 10:52:02.901474 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Apr 11 10:52:02.958626 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Apr 11 10:52:02.986580 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 11 10:52:03.000923 2021] [core:warn] [pid 1] AH00098: pid file /run/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 11 10:52:03.008290 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Sun Apr 11 10:52:03.016466 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu Apr 15 15:18:10.128712 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 15 15:18:10.236189 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 15 15:18:10.295626 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Apr 15 15:18:10.302675 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Apr 15 15:18:10.349785 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1j configured -- resuming normal operations
+[Thu Apr 15 15:18:10.350785 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Apr 16 22:51:24.943334 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Sat Apr 17 23:05:23.242172 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 17 23:05:23.251744 2021] [so:warn] [pid 1] AH01574: module env_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 17 23:05:23.292186 2021] [ssl:warn] [pid 1] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Apr 17 23:05:23.301254 2021] [ssl:warn] [pid 1] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 17 23:05:23.308949 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1k configured -- resuming normal operations
+[Sat Apr 17 23:05:23.311588 2021] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
