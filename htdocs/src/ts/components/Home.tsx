@@ -12,9 +12,7 @@ export class Home extends React.Component<any, any> {
               </div>
               <div className="col-sm-6">
                 <ol className="breadcrumb float-sm-right">
-                  <li className="breadcrumb-item">
-                    <a href="/">Home</a>
-                  </li>
+                  <li className="breadcrumb-item">Home</li>
                 </ol>
               </div>
             </div>
